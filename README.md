@@ -7,16 +7,16 @@
 - 🧙🏻‍♂️ I'm developing IT skills in people
 - 👨‍👩‍👧‍👦 I'm married and have a wonderful son and adorable daughter
 
-# ⚔️ Skills
+## ⚔️ Skills
 
-## 🔥Part of Personality🔥
+### 🔥Part of Personality🔥
 ![Go Programming Language](https://img.shields.io/badge/-Go-FFFFFF?logo=go&logoColor=white&color=00ADD8&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?logo=linux&logoColor=white&color=141414&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-FFFFFF?logo=gnubash&logoColor=white&color=4EAA25&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/-Fedora-FFFFFF?logo=fedora&logoColor=white&color=294172&style=for-the-badge)
 ![Centos](https://img.shields.io/badge/-Centos-FFFFFF?logo=centos&logoColor=white&color=262577&style=for-the-badge)
 
-## 👨🏻‍💻Daily Routine
+### 👨🏻‍💻Daily Routine
 ![NodeJS](https://img.shields.io/badge/-NodeJS-FFFFFF?logo=node.js&logoColor=white&color=339933&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFFFFF?logo=javascript&logoColor=141414&color=F7DF1E&style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-FFFFFF?logo=react&logoColor=141414&color=61DAFB&style=for-the-badge)
@@ -34,14 +34,14 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-FFFFFF?logo=webpack&logoColor=141414&color=8DD6F9&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/-GIT-FFFFFF?logo=git&logoColor=FFFFFF&color=F05032&style=for-the-badge)
 
-## 👨🏻‍🔬Zone of Interest
+### 👨🏻‍🔬Zone of Interest
 ![Web Assembly](https://img.shields.io/badge/-WASM-FFFFF?logo=webassembly&logoColor=white&color=654FF0&style=for-the-badge)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FFFFF?logo=tensorflow&logoColor=white&color=FF6F00&style=for-the-badge)
 ![Web GL](https://img.shields.io/badge/-WebGL-FFFFF?logo=webgl&logoColor=white&color=990000&style=for-the-badge)
 ![Svelte](https://img.shields.io/badge/-Svelte-FFFFFF?logo=svelte&logoColor=white&color=FF3E00&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/-Swift-FFFFF?logo=docker&logoColor=white&color=F05138&style=for-the-badge)
 
-## 🧛🏼Past Battles
+### 🧛🏼Past Battles
 ![C++](https://img.shields.io/badge/-C++-FFFFF?logo=cplusplus&logoColor=white&color=00599C&style=for-the-badge)
 ![GLFW](https://img.shields.io/badge/-GLFW-FFFFF?logo=cplusplus&logoColor=white&color=f60&style=for-the-badge)
 ![Perl](https://img.shields.io/badge/-Perl-FFFFFF?logo=perl&logoColor=white&color=39457E&style=for-the-badge)
@@ -57,7 +57,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-FFFFF?logo=docker&logoColor=white&color=EE0000&style=for-the-badge)
 
 
-# 🐶My pet-projects
+## 🐶My pet-projects
 ### <img src="https://lotrobuild.com/static/misc/ring.png" style="width:20px;display:inline-block;vertical-align:middle;"/> [LotroBuild](https://lotrobuild.com/) 
 
 A project dedicated for my favourite MMORPG The Lord of the Rings Online. 
@@ -71,7 +71,7 @@ My WIP project with ability to create chains of delayed requests written in Go. 
 
 A Fast, Small, Simple random password generator created using React a couple of years ago. Very helpful if you need non-cryptosecure password.
 
-# 🖖🏻Contact Me
+## 🖖🏻Contact Me
 [![Telegram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=telegram&logoColor=white&color=white&style=for-the-badge)](https://t.me/michaelknyazev)
 [![Facebook](https://img.shields.io/badge/-Michael%20Knyazev-FFFFF?logo=facebook&logoColor=white&color=1877F2&style=for-the-badge)](https://fb.me/mikebradius)
 [![Instagram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=instagram&logoColor=white&color=E4405F&style=for-the-badge)](https://instagram.com/michaelknyazev)
