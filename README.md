@@ -65,7 +65,7 @@ This is open database of LOTRO items, relics, titles and traits with ability to 
 
 ### [Requesto.io](https://requesto.io)
 
-My WIP project with ability to create chains of delayed requests written in Go. Supports creation of chained conditioned chains of requests and smart redirect links. Very simple to use in Node / Go. Mostly used by me for my projects xD
+My WIP project with ability to create chains of delayed requests written in Go. Supports creation of conditioned chains of requests and smart redirect links. Very simple to use in Node / Go. Mostly used by me for my projects xD
 
 ### [passwd.online](https://passwd.online)
 
