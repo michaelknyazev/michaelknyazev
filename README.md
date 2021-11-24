@@ -39,7 +39,8 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FFFFF?logo=tensorflow&logoColor=white&color=FF6F00&style=for-the-badge)
 ![Web GL](https://img.shields.io/badge/-WebGL-FFFFF?logo=webgl&logoColor=white&color=990000&style=for-the-badge)
 ![Svelte](https://img.shields.io/badge/-Svelte-FFFFFF?logo=svelte&logoColor=white&color=FF3E00&style=for-the-badge)
-![Swift](https://img.shields.io/badge/-Swift-FFFFF?logo=docker&logoColor=white&color=F05138&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-FFFFF?logo=swift&logoColor=white&color=F05138&style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/-Blockchain-FFFFF?logoColor=white&color=000000&style=for-the-badge)
 
 ### 🧛🏼Past Battles
 ![C++](https://img.shields.io/badge/-C++-FFFFF?logo=cplusplus&logoColor=white&color=00599C&style=for-the-badge)
