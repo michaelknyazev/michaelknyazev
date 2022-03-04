@@ -75,6 +75,7 @@ A Fast, Small, Simple random password generator created using React a couple of 
 
 ## 🖖🏻Contact Me
 [![Telegram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=telegram&logoColor=white&color=white&style=for-the-badge)](https://t.me/michaelknyazev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073B1?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michaelknyazev/)
 [![Facebook](https://img.shields.io/badge/-Michael%20Knyazev-FFFFF?logo=facebook&logoColor=white&color=1877F2&style=for-the-badge)](https://fb.me/mikebradius)
 [![Instagram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=instagram&logoColor=white&color=E4405F&style=for-the-badge)](https://instagram.com/michaelknyazev)
 [![saysomethingnice@michaelknyazev.com](https://img.shields.io/badge/-saysomethingnice@michaelknyazev.com-FFFFF?logo=mail.ru&logoColor=white&color=000000&style=for-the-badge)](mailto://saysomethingnice@michaelknyazev.com?subject=Hey%20Michael,%20I%20found%20your%20CV%20@%20GitHub)
