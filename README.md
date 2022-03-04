@@ -1,11 +1,12 @@
 # Hello! 🤟 My name is Mike
 
-- 🇷🇺 I live in Moscow, Russia
 - 🤓 I'm a CTO / Architect in [Destra Legal](https://destralegal.ru)
 - 🧑🏻‍💻 I write code on Go and NodeJS. Mostly Backend, but sometimes Frontend (when i'm asked to)
 - 🐶 I'm passionate about creating pet projects
 - 🧙🏻‍♂️ I'm developing IT skills in people
 - 👨‍👩‍👧‍👦 I'm married and have a wonderful son and adorable daughter
+
+### My CV: [Michael Knyazev.pdf](https://github.com/michaelknyazev/michaelknyazev/raw/main/Michael_Knyzev_CV.pdf)
 
 ## ⚔️ Skills
 
