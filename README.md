@@ -6,7 +6,7 @@
 - 🧙🏻‍♂️ I'm developing IT skills in people
 - 👨‍👩‍👧‍👦 I'm married and have a wonderful son and adorable daughter
 
-### My CV: [Michael Knyazev.pdf](https://github.com/michaelknyazev/michaelknyazev/raw/main/Michael_Knyzev_CV.pdf)
+#### My CV: [Michael Knyazev.pdf](https://github.com/michaelknyazev/michaelknyazev/raw/main/Michael_Knyzev_CV.pdf)
 
 ## ⚔️ Skills
 
