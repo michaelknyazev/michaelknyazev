@@ -1,6 +1,6 @@
 # Hello! 🤟 My name is Mike
 
-- 🤓 I'm a CTO / Architect in [Destra Legal](https://destralegal.ru)
+- 🤓 I'm an Engeneering Lead in [Destra Legal](https://destralegal.ru)
 - 🧑🏻‍💻 I write code on Go and NodeJS. Mostly Backend, but sometimes Frontend (when i'm asked to)
 - 🐶 I'm passionate about creating pet projects
 - 🧙🏻‍♂️ I'm developing IT skills in people
