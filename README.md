@@ -69,9 +69,9 @@ This is open database of LOTRO items, relics, titles and traits with ability to 
 
 My WIP project with ability to create chains of delayed requests written in Go. Supports creation of conditioned chains of requests and smart redirect links. Very simple to use in Node / Go. Mostly used by me for my projects xD
 
-### [passwd.online](https://passwd.online)
+### [Skedifire](https://skedifire.com)
 
-A Fast, Small, Simple random password generator created using React a couple of years ago. Very helpful if you need non-cryptosecure password.
+A Simple sked manager, with ability to book meetings by URL.
 
 ## 🖖🏻Contact Me
 [![Telegram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=telegram&logoColor=white&color=white&style=for-the-badge)](https://t.me/michaelknyazev)
