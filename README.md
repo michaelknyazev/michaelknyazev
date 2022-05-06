@@ -72,7 +72,8 @@ My WIP project with ability to create chains of delayed requests written in Go. 
 
 A Simple sked manager, with ability to book meetings by URL.
 
-## 🖖🏻Contact Me[![Telegram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=telegram&logoColor=white&color=white&style=for-the-badge)](https://t.me/michaelknyazev)
+## 🖖🏻Contact Me
+[![Telegram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=telegram&logoColor=white&color=white&style=for-the-badge)](https://t.me/michaelknyazev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073B1?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/michaelknyazev/)
 [![Facebook](https://img.shields.io/badge/-Michael%20Knyazev-FFFFF?logo=facebook&logoColor=white&color=1877F2&style=for-the-badge)](https://fb.me/mikebradius)
 [![Instagram](https://img.shields.io/badge/-@michaelknyazev-FFFFF?logo=instagram&logoColor=white&color=E4405F&style=for-the-badge)](https://instagram.com/michaelknyazev)
