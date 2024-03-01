@@ -1,6 +1,6 @@
 # Hello! 🤟 My name is Mike
 
-- 🤓 I'm currently working on a new startup to conquer the Tech world
+- 🤓 I'm currently working as Principal Software Engineer
 - 🧑🏻‍💻 I'm writing code on Go and NodeJS. Mostly Backend, but sometimes Frontend (when i'm asked to)
 - 🐶 I'm passionate about creating pet projects
 - 🧙🏻‍♂️ I'm developing IT skills in people
@@ -14,7 +14,8 @@
 ![Go Programming Language](https://img.shields.io/badge/-Go-FFFFFF?logo=go&logoColor=white&color=00ADD8&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?logo=linux&logoColor=white&color=141414&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-FFFFFF?logo=gnubash&logoColor=white&color=4EAA25&style=for-the-badge)
-![Fedora](https://img.shields.io/badge/-Fedora-FFFFFF?logo=fedora&logoColor=white&color=294172&style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/-Arch-168ECA?logo=archlinux&logoColor=white&color=168ECA&style=for-the-badge)
+![i3](https://img.shields.io/badge/-i3WM-168ECA?logo=i3&logoColor=white&color=000000&style=for-the-badge)
 ![Centos](https://img.shields.io/badge/-Centos-FFFFFF?logo=centos&logoColor=white&color=262577&style=for-the-badge)
 
 ### 👨🏻‍💻Daily Routine
